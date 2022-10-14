@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Pycharm
+.idea/
+
+# test files
+db_con/test.ipynb
