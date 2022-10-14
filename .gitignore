@@ -131,3 +131,6 @@ dmypy.json
 
 # Pycharm
 .idea/
+
+# test files
+db_con/test.ipynb
